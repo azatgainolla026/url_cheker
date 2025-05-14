@@ -20,6 +20,8 @@ go run main.go checker.go -f urls.txt -c 5
 ```
 4. **Expected output:**
 ![image](https://github.com/user-attachments/assets/b5a5fcc4-4c1b-48e4-a193-2d038dfa53f7)
+![image](https://github.com/user-attachments/assets/7297eb4d-2a60-4682-8b3b-a9456d4bc8e3)
+
 
 ### Requirements
 Ensure you have Go installed 
