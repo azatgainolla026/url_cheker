@@ -1,0 +1,11 @@
+URL,Status,ResponseTime(ms),Error
+https://www.google.com,200,300,
+https://www.example.com,200,266,
+https://www.github.com,200,679,
+https://www.stackoverflow.com,200,763,
+https://golang.org,200,755,
+https://axaxaxaxaxaxaxaxax.xax,N/A,N/A,"Get ""https://axaxaxaxaxaxaxaxax.xax"": dial tcp: lookup axaxaxaxaxaxaxaxax.xax: no such host"
+https://nonexistent12345.xyz,N/A,N/A,"Get ""https://nonexistent12345.xyz"": dial tcp: lookup nonexistent12345.xyz: no such host"
+https://kaspi.kz,200,27,
+https://sdu.kz,200,1205,
+https://politicalperiscope.com/,200,1090,
